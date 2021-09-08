@@ -1,5 +1,3 @@
-# Hayden's REPO
-
 # STEP 1: Audrey
 
 # load packages
